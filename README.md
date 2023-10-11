@@ -1,16 +1,61 @@
-### Hi there 👋
+# ReadMe Coming Soon...
 
-<!--
-**kbfeldmann/kbfeldmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Introduction (insert something here)
+I am a capable bioinformatician with a passion for problem-solving and creating approachable figures and presentations.
 
-Here are some ideas to get you started:
+## Bioinformatics and Data Analysis Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Single-cell Multiomics | Machine Learning | Benchmarking
+Insert introduction
+
+Research Question:
+
+Poster for Early-Career Molecular Biologists: insert link here
+
+GitHub Repository: insert link here
+
+#### Cancer Genomics | Structural Variants | Long-Read Sequencing
+Insert introduction
+
+Research Question:
+
+Presentation for Early-Career Molecular Biologists: insert link here
+
+GitHub Repository: insert link here
+
+#### Virus Evolution | Phylogenetics | Enriched Mutations
+Insert introduction
+
+Research Question:
+
+Presentation for Early-Career Molecular Biologists: insert link here
+Poster for Graduate-Level Biologists and Computer Scientists: insert link here
+
+GitHub Repository: insert link here
+
+#### Population Genomics | Single Nucleotide Variants | Introgression
+Insert introduction
+
+Research Question:
+
+Graduate-Level Thesis: insert link here
+
+Presentation for Faculty-Level Ecologists and Evolutionary Biologists: insert link here
+
+GitHub Repository: insert link here
+
+#### Ornithology | Quantitative Photography | Principal Component Analyses
+Insert introduction
+
+Research Question:
+
+First-Author Publication: insert link here
+
+Undergraduate Honors Thesis: insert link here
+
+Presentation for ___: insert link here
+Poster for All-Career Ecologists: insert link here
+
+GitHub Repository: insert link here-->
+
+
