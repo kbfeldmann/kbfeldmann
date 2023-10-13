@@ -1,6 +1,6 @@
 ![Hello World](https://github.com/kbfeldmann/kbfeldmann/assets/47021794/d4c5460a-c4e3-472c-bbe4-3e4149c5c77f)
 
-I build **bioinformatics** pipelines to analyze high-dimensional biological datasets and examine novel computational biology software tools. From using whole-genome sequences to study patterns of introgression to benchmarking an autoencoder using a single-cell multimodal dataset, I have used computational approaches to explore a breadth of biological fields.
+I build **bioinformatics** pipelines to analyze high-dimensional biological datasets and examine novel computational biology software tools. From using whole-genome sequences for studying patterns of introgression to benchmarking an autoencoder using a single-cell multimodal dataset, I have used computational approaches to explore a breadth of biological fields.
 
 Want to learn more about my bioinformatics experience? Click on an emoji to discover one of my projects!
 
